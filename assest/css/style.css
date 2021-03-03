@@ -1,0 +1,78 @@
+/* *******************************
+==== GENARAL CSS - STARTED ====
+**********************************/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+*{
+  padding: 0px;
+  margin:0px;
+}
+html{
+  box-sizing: border-box;
+}
+body {
+  background: #f9f9f9 !important;
+}
+
+/* *******************************
+==== GENARAL CSS - ENDED ====
+**********************************/
+
+
+/* *******************************
+==== MAIN CSS - ENDED ====
+**********************************/
+
+input#srch {
+  padding: 6px 48px 6px 16px;
+  border: 1px solid #dc3545;
+  outline: none;
+  border-radius: 5px;
+  background: #f9f9f9;
+}
+i#serch {
+  background: #dc3545;
+  padding: 9px;
+  margin-left: 8px;
+  color: #f9f9f9;
+  border-radius: 50%;
+}
+
+.inp button {
+  border: none;
+  outline: none;
+  background: transparent;
+}
+.items {
+  background: #fefefe;
+  width: 98%;
+  border: 1px solid #e8e8e8;
+}
+div#single-cart {
+  width: 31%;
+  overflow: hidden;
+  height: 315px;
+  float: left;
+  margin: 1% 2% 3% 0%;
+  box-sizing: border-box;
+  padding: 8px;
+  background: #f4f2f2;
+  border: 1px solid #dadada;
+  border-radius: 7px;
+  box-shadow: -1px 0px 9px 0px #d8d8d8;
+}
+
+.nw {
+  width: 90%;
+  overflow: hidden;
+}
+
+div#image img {width: 100%;border: 1px solid #a49999;margin-top: 7px;border-radius: 5px;}
+
+div#tittle h2 {
+  font-size: 18px;
+  text-align: center;
+  color: #dc3545;
+}
+/* *******************************
+==== MAIN CSS - ENDED ====
+**********************************/
